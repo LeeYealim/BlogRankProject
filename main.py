@@ -42,7 +42,6 @@ def root():
     return parameters
 
 
-
 if __name__ == '__main__':
     # print(blog.get_blog_rank_n_info('한의원', 'https://blog.naver.com/jc1103/223189397649'))
     app.run()

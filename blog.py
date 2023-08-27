@@ -1,14 +1,7 @@
-# (성공) 블로그 제목 가져오기
-
 from bs4 import BeautifulSoup
 import requests
 import urllib.request as req
 import datetime
-import json
-
-# 블로그 url
-# main_url='https://blog.naver.com/anus35/223181049124'           # 대상 블로그 url 입력
-main_url = 'https://blog.naver.com/anus35/223186827044'
 
 
 def test():
